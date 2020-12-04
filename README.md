@@ -1,0 +1,2 @@
+# Day-2-Event-handling
+Create a Banking class with NetBalance property in C# Application. This class should two events OverBalance and UnderBalance. If the NetBalance is more than Rs.100000 then OverBalance event will be fired and this event will calculate the Tax for the amout more than Rs.100000. If the NetBalance is less than Rs. 5000, then the UnderBalance event will be faires and it should notify the end-user that the balance must be maintain as Rs. 5000. 
